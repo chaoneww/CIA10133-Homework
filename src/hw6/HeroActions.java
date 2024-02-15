@@ -1,4 +1,4 @@
-package hw7;
+package hw6;
 
 public interface HeroActions {
     void move();

@@ -1,4 +1,4 @@
-package hw7;
+package hw6;
 
 public abstract class Hero implements HeroActions {
     // 省略 getter/setter...
